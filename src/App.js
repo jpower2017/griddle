@@ -71,7 +71,7 @@ class App extends Component {
       <MuiThemeProvider muiTheme={ThemeDefault}>
         <div className="App">
           <div className="App-header">
-            <h2>Welc  React</h2>
+            <h2>Wealc  React</h2>
           </div>
           <Griddle
             styleConfig={styleConfig}
